@@ -6,7 +6,7 @@
 
 👨‍💻 Check out my projects on [GitHub](https://github.com/poonamrp3)
 
-💬 Feel free to ask me about Python, Java, SQL, ReactJS, and VueJS.
+💬 Feel free to ask me about C#, Python, Java, and SQL.
 
 📫 Contact me at [pp1549@rit.edu](mailto:pp1549@rit.edu)
 
